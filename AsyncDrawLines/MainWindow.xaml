@@ -1,0 +1,16 @@
+﻿<Window x:Class="AsyncDrawLines.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsyncDrawLines"
+        mc:Ignorable="d"
+        Title="MainWindow" Name="mainWindow" Height="331" Width="660" >
+    <Window.Background>
+        <ImageBrush  ImageSource="C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\ClimateData\world.jpg"  Stretch="Fill" TileMode="None"/>
+    </Window.Background>
+
+    <Grid Name="grid" >
+        <Image Name="image" Source="{Binding imageProp}"  Height="{Binding H}" Width="{Binding W}"  VerticalAlignment="Top" HorizontalAlignment="Center" Stretch="Fill"/>
+    </Grid>
+</Window>

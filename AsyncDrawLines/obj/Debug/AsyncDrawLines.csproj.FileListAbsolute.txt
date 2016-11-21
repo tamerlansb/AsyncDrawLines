@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\AsyncDrawLines.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\AsyncDrawLines.exe
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\AsyncDrawLines.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.exe
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\ParrallelPrograming(task1).dll
+c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\ParrallelPrograming(task1).pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\AsyncDrawLines.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\ParrallelPrograming(task1).dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\AsyncDrawLines.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\bin\Debug\ParrallelPrograming(task1).pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

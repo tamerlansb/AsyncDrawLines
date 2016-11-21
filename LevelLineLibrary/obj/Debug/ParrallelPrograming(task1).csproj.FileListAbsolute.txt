@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ParrallelPrograming(task1)\ParrallelPrograming(task1)\obj\Debug\ParrallelPrograming(task1).csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ParrallelPrograming(task1)\ParrallelPrograming(task1)\bin\Debug\ParrallelPrograming(task1).dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ParrallelPrograming(task1)\ParrallelPrograming(task1)\bin\Debug\ParrallelPrograming(task1).pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ParrallelPrograming(task1)\ParrallelPrograming(task1)\obj\Debug\ParrallelPrograming(task1).dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ParrallelPrograming(task1)\ParrallelPrograming(task1)\obj\Debug\ParrallelPrograming(task1).pdb
