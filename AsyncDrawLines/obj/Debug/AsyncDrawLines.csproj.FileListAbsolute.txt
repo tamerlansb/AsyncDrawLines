@@ -14,3 +14,10 @@ c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLin
 c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines.pdb
 c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\ParrallelPrograming(task1).dll
 c:\users\admin\documents\visual studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\ParrallelPrograming(task1).pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\ClimateDateBase.mdf
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\obj\Debug\AsyncDrawLines_Content.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\AsyncDrawLines\bin\Debug\ClimateDateBase_log.ldf

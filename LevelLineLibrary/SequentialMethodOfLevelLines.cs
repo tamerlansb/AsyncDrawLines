@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParrallelPrograming_task1_
 {
+    [Serializable]
     public class SequentialMethodOfLevelLines : MethodLevelLines, ICalculation
     {
         public SequentialMethodOfLevelLines(func f, float l1 = 1, float l2 = 1, int N1 = 100,int N2 = 100) : base(l1,l2,N1,N2)

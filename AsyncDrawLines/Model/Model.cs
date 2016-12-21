@@ -9,6 +9,7 @@ using System.Windows;
 
 namespace AsyncDrawLines
 {
+    [Serializable]
     public class Model
     {
         private Dictionary<float,List<line>> lines;
@@ -18,6 +19,10 @@ namespace AsyncDrawLines
         {
             DownloadGrid();
             lines = new Dictionary<float, List<line>>();
+        }
+        public Dictionary<float, List<line>> Lines
+        {
+            get { return lines; }
         }
         public List<line> CalcLevelLine(float SetValueLevel)
         {

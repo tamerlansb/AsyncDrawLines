@@ -6,11 +6,42 @@
         xmlns:local="clr-namespace:AsyncDrawLines"
         mc:Ignorable="d"
         Title="MainWindow" Name="mainWindow" Height="331" Width="660" >
-    <Window.Background>
-        <ImageBrush  ImageSource="C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\ClimateData\world.jpg"  Stretch="Fill" TileMode="None"/>
-    </Window.Background>
-
     <Grid Name="grid" >
-        <Image Name="image" Source="{Binding imageProp}"  Height="{Binding H}" Width="{Binding W}"  VerticalAlignment="Top" HorizontalAlignment="Center" Stretch="Fill"/>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Name="DataDisplay" Grid.Column="1"  Height="{Binding H}" Width="{Binding W}" Grid.RowSpan="2">
+            <StackPanel.Background>
+                <ImageBrush  ImageSource="C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\ClimateData\world.jpg"  Stretch="Fill" TileMode="None"/>
+            </StackPanel.Background>
+            <Image Name="image"  Source="{Binding imageProp}"  Height="{Binding H}" Width="{Binding W}"  VerticalAlignment="Top" HorizontalAlignment="Center" Stretch="Fill" />
+        </StackPanel>
+        <StackPanel Name="ControlDisplay"  Grid.Column="0" >
+            <StackPanel>
+                <TextBlock Name="Title_save" Text="Сохранить в базу" FontStyle="Italic"/>
+                <TextBlock Name="Keyword_block" Text="Ключевое слово:"/>
+                <TextBox Name="Keyword" Text="{Binding DataToSave.keyword, Mode=TwoWay}"/>
+                <TextBlock Name="Date_block" Text="Дата:"/>
+                <DatePicker SelectedDate="{Binding DataToSave.date,Mode=TwoWay}"/>
+                <Button x:Name="Save" Content="Save Current" Command="{Binding SaveCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+            </StackPanel>
+            <StackPanel >
+                <TextBlock Name="Title_download" Text="Поиск и загрузка" FontStyle="Italic"/>
+                <TextBlock Name="Keyword_block_download" Text="Ключевое слово:"/>
+                <TextBox Name="Keyword_download" Text="{Binding DataToDownload.keyword, Mode=TwoWay}"/>
+                <TextBlock Name="Date_block_download" Text="Дата:"/>
+                <DatePicker SelectedDate="{Binding DataToDownload.date,Mode=TwoWay}"/>
+                <Button x:Name="Download" Content="Download" Command="{Binding DownloadCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+            </StackPanel>
+            <StackPanel >
+                <TextBlock Name="Title_add" Text="Добавить Линию уровня" FontStyle="Italic"/>
+                <TextBlock Name="Keyword_block_add" Text="Линия уровня:"/>
+                <TextBox Name="Keyword_add" Text="{Binding LevelAdd, Mode=TwoWay}"/>
+                <Button x:Name="Add" Content="Add" Command="{Binding AddCommand}" CommandParameter="{Binding KeywordAdd}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+                <Button x:Name="Clear" Content="Clear" Command="{Binding ClearCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>

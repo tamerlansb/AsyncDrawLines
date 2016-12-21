@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ParrallelPrograming_task1_
 {
+    [Serializable]
     public struct line{ 
         public float x1, x2, y1, y2;
         public line(point a,point b)
@@ -17,6 +18,7 @@ namespace ParrallelPrograming_task1_
             y2 = b.y;
         }
     }
+    [Serializable]
     public struct point
     {
         public float x, y;
@@ -42,6 +44,7 @@ namespace ParrallelPrograming_task1_
             return new point( a.x / alpha, a.y / alpha);
         }
     }
+    [Serializable]
     public class MethodLevelLines
     {
         protected float l1, l2, h1, h2;

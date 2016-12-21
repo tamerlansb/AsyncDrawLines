@@ -3,3 +3,8 @@ C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\LevelLineLibrar
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\LevelLineLibrary\obj\Debug\ParrallelPrograming(task1).dll
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\LevelLineLibrary\obj\Debug\ParrallelPrograming(task1).pdb
 C:\Users\Admin\Documents\Visual Studio 2015\Projects\ClimateData\LevelLineLibrary\obj\Debug\LevelLineLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\LevelLineLibrary\bin\Debug\ParrallelPrograming(task1).dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\LevelLineLibrary\bin\Debug\ParrallelPrograming(task1).pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\LevelLineLibrary\obj\Debug\LevelLineLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\LevelLineLibrary\obj\Debug\ParrallelPrograming(task1).dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\AsyncDrawLines\LevelLineLibrary\obj\Debug\ParrallelPrograming(task1).pdb
